@@ -2,7 +2,7 @@ spring:
   application:
     name: greeting-service
 greeting-service:
-  greeting: "Pronto"
+  greeting: "HELLO AND "
   defaultValue: "Mundo"
 management:
   endpoints:
